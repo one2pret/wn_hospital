@@ -1,1 +1,2 @@
-# wn_hostpital
+# wn_hospital
+Addons odoo 16
